@@ -7,7 +7,8 @@
   "en": {
     "welcome": "Welcome!",
     "title": "Kero Fraction Builder",
-    "play": "PLAY",
+    "play": "NEW GAME",
+    "continue": "CONTINUE",
     "complete": "COMPLETE",
     "credits": "CREDITS",
     "credits_detail": "Written By: David Dionisio\nMusic From: Kevin Macleod",
@@ -99,7 +100,8 @@
   "es": {
     "welcome": "Bienvenido!",
     "title": "Constructor de Fracciones Kero",
-    "play": "JUGAR",
+    "play": "NUEVO JUEGO",
+    "continue": "CONTINUAR",
     "complete": "COMPLETAR",
     "credits": "CRÉDITOS",
     "credits_detail": "Escrito por: David Dionisio\nMúsica de: Kevin Macleod",
